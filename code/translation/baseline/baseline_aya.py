@@ -26,7 +26,7 @@ def main(test_set_path):
 
     # Translate the Turkish sentences
     print("Translating sentences...")
-    test_set_df['model_translation'] = test_set_df['turkish'].apply(lambda x: aya_translate(x))
+    test_set_df['model_translation'] = test_set_df['turkish'].apply(lambda x: aya_translate(x, tokenizer, aya_model))
 
     # Calculate BLEU and chrF scores
     bleu = BLEU()
