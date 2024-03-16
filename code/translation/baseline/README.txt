@@ -77,6 +77,8 @@ Cost: $4.18
 
 Cohere Aya
 manuscript
+BLEU score: 5.049970582628528
+chrF score: 29.487182826608805
 
 novel
 BLEU score: 7.296032830144639
