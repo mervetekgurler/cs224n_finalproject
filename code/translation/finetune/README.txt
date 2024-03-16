@@ -4,3 +4,9 @@ We used the Hugging Face Trainer class and followed these tutorials and code bas
 2. https://github.com/huggingface/notebooks/blob/main/examples/translation.ipynb
 3. https://medium.com/@tskumar1320/how-to-fine-tune-pre-trained-language-translation-model-3e8a6aace9f
 4. https://github.com/huggingface/transformers/blob/main/examples/pytorch/translation/run_translation.py
+
+Here are the statistics of the datasets
+Train Set 41,782
+Dev Set 10,447
+Test Set 1: Novel 2,694
+Test Set 2: Manuscript 425
