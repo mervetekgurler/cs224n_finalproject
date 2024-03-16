@@ -5,7 +5,7 @@ We used the Hugging Face Trainer class and followed these tutorials and code bas
 3. https://medium.com/@tskumar1320/how-to-fine-tune-pre-trained-language-translation-model-3e8a6aace9f
 4. https://github.com/huggingface/transformers/blob/main/examples/pytorch/translation/run_translation.py
 
-Here are the statistics of the datasets
+Here are the statistics of the datasets (in number of sentence pairs):
 Train Set 41,782
 Dev Set 10,447
 Test Set 1: Novel 2,694
