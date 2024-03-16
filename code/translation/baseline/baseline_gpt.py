@@ -7,7 +7,7 @@ import pandas as pd
 from sacrebleu.metrics import BLEU, CHRF
 from openai import OpenAI
 
-api_key = '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'
+api_key = 'api_key'
 client = OpenAI(api_key=api_key)
 
 def translate_with_openai(sentence, model):
