@@ -75,3 +75,15 @@ chrF score: 37.714786665604514
 
 Cost: $4.18
 
+Cohere Aya
+manuscript
+
+novel
+BLEU score: 7.296032830144639
+chrF score: 33.384249345753005
+
+osmanaga
+
+
+Cost: GCP Free Credits (est. $10)
+
