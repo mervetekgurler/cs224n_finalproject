@@ -12,6 +12,10 @@ novel
 BLEU score: 10.939317408733729
 chrF score: 33.519459163707566
 
+osmanaga
+BLEU score: 2.776063497445394
+chrF score: 20.068630988005225
+
 finetune_v2_BLEU
 manuscript
 BLEU score: 3.313619990622139
