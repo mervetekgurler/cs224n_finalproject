@@ -85,6 +85,8 @@ BLEU score: 7.296032830144639
 chrF score: 33.384249345753005
 
 osmanaga
+BLEU score: 5.834939489417026
+chrF score: 28.903227866641117
 
 
 Cost: GCP Free Credits (est. $10)
